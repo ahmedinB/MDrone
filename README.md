@@ -36,6 +36,7 @@ Test evaluation are categorized into distant drone images ("Far") and nearer ("C
 ---
 ## Limitations
 
-Training wasn't integrated to single end-to-end process and no shared feature extraction was implemented.
-The monocular camera input is susceptible to egomotion which generates measurement error
+Training was not integrated into a single end-to-end process, and no shared feature extraction was implemented.
+
+The monocular camera input is susceptible to egomotion, which generates measurement error.
 
