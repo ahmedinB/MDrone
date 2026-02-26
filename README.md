@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/aa4e865e-5990-47dd-b433-a8bb75be7c3c
+
 # XMDrone
 XMDrone: Indoor Monocular RGB Drone Localization Using Object Detection, Depth Estimation, and Multi-Layer Perceptron Models
 
