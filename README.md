@@ -32,3 +32,10 @@ https://ieeexplore.ieee.org/document/11268730
 
 ---
 Test evaluation are categorized into distant drone images ("Far") and nearer ("Close") images in the dataset.
+
+---
+## Limitations
+
+Training wasn't integrated to single end-to-end process and no shared feature extraction was implemented.
+The monocular camera input is susceptible to egomotion which generates measurement error
+
