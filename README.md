@@ -15,7 +15,7 @@ https://ieeexplore.ieee.org/document/11268730
 | **D** | 1922.000 | 831.945 | 1376.972 |
 | **Average** | 1499.001 | 2081.575 | 1790.288 |
 
----
+
 
 ### Discrepancy Between Predicted Values Using MLP and the Actual Drone Position
 
@@ -26,3 +26,6 @@ https://ieeexplore.ieee.org/document/11268730
 | **Z** | 105.887 | 100.122 | 103.004 |
 | **D** | 700.750 | 924.548 | 812.649 |
 | **Average** | 458.760 | 605.706 | 532.233 |
+
+---
+Test evaluation are categorized into distant drone images ("Far") and nearer ("Close") images in the dataset.
