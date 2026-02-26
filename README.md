@@ -5,11 +5,24 @@ Abstract— The challenge of precise indoor localization for unmanned aerial veh
 
 https://ieeexplore.ieee.org/document/11268730
 
-Discrepancy Between Predicted Values Using YOLOv8 and ZoeDepth and the Actual Drone Position
+### Discrepancy Between Predicted Values Using YOLOv8 and ZoeDepth and the Actual Drone Position
 
-Error in mm,Close,Far,Average
-X,503.396,1806.568,1154.982
-Y,687.075,2069.704,1378.349
-Z,2883.568,3618.084,3250.836
-D,1922.000,831.945,1376.972
-Average,1499.001,2081.575,1790.288
+| Error in mm | Close | Far | Average |
+| :--- | :--- | :--- | :--- |
+| **X** | 503.396 | 1806.568 | 1154.982 |
+| **Y** | 687.075 | 2069.704 | 1378.349 |
+| **Z** | 2883.568 | 3618.084 | 3250.836 |
+| **D** | 1922.000 | 831.945 | 1376.972 |
+| **Average** | 1499.001 | 2081.575 | 1790.288 |
+
+---
+
+### Discrepancy Between Predicted Values Using MLP and the Actual Drone Position
+
+| Error in mm | Close | Far | Average |
+| :--- | :--- | :--- | :--- |
+| **X** | 691.962 | 338.876 | 515.419 |
+| **Y** | 336.441 | 1059.281 | 697.860 |
+| **Z** | 105.887 | 100.122 | 103.004 |
+| **D** | 700.750 | 924.548 | 812.649 |
+| **Average** | 458.760 | 605.706 | 532.233 |
